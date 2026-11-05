@@ -16,9 +16,9 @@ Nous avons également testé le changement de filière, la mise à jour récipro
 
 # Tests réalisés
 
-Vérification des constructeurs et des getters/setters.
-Validation des notes comprises entre 0 et 20.
-Calcul des moyennes des étudiants.
-Inscription et retrait de plusieurs étudiants dans une filière.
-Vérification des associations réciproques et du changement de filière.
-Gestion des erreurs : pointeurs nuls et inscriptions en double.
+- Vérification des constructeurs et des getters/setters.
+- Validation des notes comprises entre 0 et 20.
+- Calcul des moyennes des étudiants.
+- Inscription et retrait de plusieurs étudiants dans une filière.
+- Vérification des associations réciproques et du changement de filière.
+- Gestion des erreurs : pointeurs nuls et inscriptions en double.
