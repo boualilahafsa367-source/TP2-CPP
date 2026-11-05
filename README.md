@@ -13,3 +13,12 @@ Dans cet exercice, nous avons établi une association entre les classes Etudiant
 Nous avons utilisé des pointeurs et un std::vector pour permettre à une filière de gérer plusieurs étudiants (association 1-N).
 Nous avons implémenté l'inscription, le retrait et l'affichage des étudiants, ainsi que le calcul de leur nombre.
 Nous avons également testé le changement de filière, la mise à jour réciproque des associations et la gestion des erreurs pour éviter les inscriptions en double.
+
+# Tests réalisés
+
+Vérification des constructeurs et des getters/setters.
+Validation des notes comprises entre 0 et 20.
+Calcul des moyennes des étudiants.
+Inscription et retrait de plusieurs étudiants dans une filière.
+Vérification des associations réciproques et du changement de filière.
+Gestion des erreurs : pointeurs nuls et inscriptions en double.
